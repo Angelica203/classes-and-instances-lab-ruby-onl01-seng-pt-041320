@@ -1,7 +1,6 @@
 class Dog
-end 
+end
 
 fido = Dog
 snoopy = Dog
 jax = Dog
-
